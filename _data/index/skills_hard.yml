@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs2
+aspects: Vue.JS / AngularJS, jQuery, HTML / CSS, Python, PHP, NodeJS, Bootstrap, Adobe CS, Gulp / Bower
+percentage: 50, 80, 100, 65, 65, 30, 100, 100, 100

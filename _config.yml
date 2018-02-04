@@ -11,15 +11,15 @@ img_path: /simonyost.com-jekyll/static/assets/img/blog  # url should be '/homepa
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+  name: Simon Yost  # Be used at blog posts' author.
+  first_name: Simon  # Be used at index page about me section.
+  last_name: Yost  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: jarrekk  # Leave blank if you don't have now
-  linkedin_id: jarrekk # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
-  twitter_username: jiakun614  # Leave blank if you don't have now
-  email: me@jarrekk.com  # Leave blank if you don't have now
+  github_username: simonyost  # Leave blank if you don't have now
+  linkedin_id: simonyost # Leave blank if you don't have now
+  facebook_username: simonyost  # Leave blank if you don't have now
+  twitter_username: simonyost  # Leave blank if you don't have now
+  email: simonyost@gmail.com  # Leave blank if you don't have now
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: I am a Product Manager & Team Leader that create products and specialize in maximizing the potential of teams. My focus is leading teams to create sustainable and nimble digital applications so people can focus on other people.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
@@ -48,10 +48,10 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
-index_carousel: on  # index page carousel switch
+index_carousel: off  # index page carousel switch
 blog_carousel: on  # blog page carousel switch
 
 # scss

@@ -5,17 +5,17 @@
 - name: BanduraSystems.com
   url: https://bandurasystems.com
   img: /static/assets/img/landing/projects/bandura.png
-  desc: Some description here...
+  desc: "The primary website property for Bandura System. Bandura Systems pioneered the PoliWall threat intelligence gateway in part with the U.S. Department of Defense. This site is built on Jekyll. <br><br><b>My Role:</b> UX Design // Copywriting // Front-end development // Project Management"
 
 - name: PoliWall<sup>&reg;</sup> TIG<sup>&trade;</sup>
   url: https://bandurasystems.com/products/poliwall.html
   img: /static/assets/img/landing/projects/bandura.png
-  desc: Some description here...
+  desc: "The PoliWall is a security appliance that goes between in the internet and firewall to keep out the bad guys. <br><br><b>My Role:</b> UX Design // Front-end development // PHP development // Project Management"
 
 - name: BanduraONE
   url: https://bandurasystems.com/products/bandura-one.html
   img: /static/assets/img/landing/projects/bandura.png
-  desc: Some description here...
+  desc: "BanduraONE is a cloud application allowing PoliWall users to control policy from multiple appliances on a single interface. <br><br><b>My Role:</b> UX Design // Front-end development // Python development // Project Management"
 
 - name: Optimum Buyflow
   url: https://order.optimum.com/Buyflow/Storefront
@@ -52,4 +52,4 @@
 - name: Content First Web Development Curriculum
   url: https://cse.wustl.edu/Pages/default.aspx
   img: /static/assets/img/landing/projects/washu.png
-  desc: Some description here...
+  desc: "I developed and taught a front-end, content-first curriculum​ for the course to augment CS foundations for the WashU School of Engineering & Applied Science. The course was popular with business, graphic design, and computer science majors."

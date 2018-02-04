@@ -3,7 +3,7 @@
 # Website settings
 title: Simon Yost
 description: Simon's site.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
+keywords: Simon, Yost, siyo, Leader, Technology
 baseurl:  /simonyost.com-jekyll # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://simonyost.github.io/simonyost.com-jekyll  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -26,7 +26,7 @@ author:  # change following line to your infomation.
     - name: fa-heart
     - name: fa-cloud
   skill_icon2:
-    - name: fa-tachometer-alt
+    - name: fa-dashboard
     - name: fa-sitemap
   desc: I am a Product Manager & Team Leader that create products and specialize in maximizing the potential of teams. My focus is leading teams to create sustainable and nimble digital applications so people can focus on other people.  # Describe yourself.
 

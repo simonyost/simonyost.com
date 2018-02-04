@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: fa-heart
+    - name: fa-cloud
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: fa-tachometer-alt
+    - name: fa-sitemap
   desc: I am a Product Manager & Team Leader that create products and specialize in maximizing the potential of teams. My focus is leading teams to create sustainable and nimble digital applications so people can focus on other people.  # Describe yourself.
 
 # comment
@@ -51,7 +51,7 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
 donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
-index_carousel: off  # index page carousel switch
+index_carousel: on  # index page carousel switch
 blog_carousel: on  # blog page carousel switch
 
 # scss

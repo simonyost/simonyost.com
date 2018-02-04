@@ -1,22 +1,55 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: BanduraSystems.com
+  url: https://bandurasystems.com
+  img: /static/assets/img/landing/projects/bandura.png
+  desc: Some description here...
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: PoliWall<sup>&reg;</sup> TIG<sup>&trade;</sup>
+  url: https://bandurasystems.com/products/poliwall.html
+  img: /static/assets/img/landing/projects/bandura.png
+  desc: Some description here...
+
+- name: BanduraONE
+  url: https://bandurasystems.com/products/bandura-one.html
+  img: /static/assets/img/landing/projects/bandura.png
+  desc: Some description here...
+
+- name: Optimum Buyflow
+  url: https://order.optimum.com/Buyflow/Storefront
+  img: /static/assets/img/landing/projects/optimum.jpg
+  desc: "A Node/Angular app that allows customers to buy cable TV, phone, and internet service. <br><br><b>My Role:</b> UX Design // User stories // Front-end development // Project Management"
+
+- name: Suddenlink Buyflow
+  url: https://order.suddenlink.com/Buyflow/Storefront
+  img: /static/assets/img/landing/projects/suddenlink.png
+  desc: "A Node/Angular app that allows customers to buy cable TV, phone, and internet service. <br><br><b>My Role:</b> UX Design // User stories // Front-end development // Project Management"
+
+
+- name: USAID PC Dashbaord
+  url: https://usaidlearninglab.org/sub-group/pc-dashboard-working-group
+  img: /static/assets/img/landing/projects/usaid.png
+  desc: "The Program Cycle (PC) Dashboard was created for USAID contracts to track the world-wide professional activities of its teams and missions. <br><br><b>My Role:</b> UX Design // Information design // Front-end development // Project Management"
+
+- name: Randy Burkett Lighting
+  url: https://rbldi.com/
+  img: /static/assets/img/landing/projects/RBL.png
+  desc: "A portfolio site for a industry-leading architectural lighting design firm. <br><br><b>My Role:</b> Information design // User stories // Project Management // Testing lead"
+
+- name: Craft Alliance
+  url: https://craftalliance.org/
+  img: /static/assets/img/landing/projects/craftalliance.jpg
+  desc: "A resource site for events and media created internally for large non-profit. <br><br><b>My Role:</b> Information design // User stories //Project Management // Testing lead"
+
+- name: GreaterGoods.com
+  url: https://greatergoods.com
+  img: /static/assets/img/landing/projects/greatergoods.png
+  desc: "A sales site created internally for a consumer products company. <br><br><b>My Role:</b> UX Design // Information design // Front-end development // Project Management"
+
+
+- name: Content First Web Development Curriculum
+  url: https://cse.wustl.edu/Pages/default.aspx
+  img: /static/assets/img/landing/projects/washu.png
+  desc: Some description here...

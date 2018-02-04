@@ -1,29 +1,87 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: The Coolest Company
-    i18n: company_a
+    detail: Bandura Systems
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Bandura creates a cybersecurity appliance that sits between in the internet and firewall to keep out the bad guys. My team
+            and I delight and surprise our customers with intuitive user interfaces as well as engaged and contextual support
+            interactions. I led the migration of the flagship appliance from PHP/jQuery to Python + GoLang/ Vue.JS.
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: 2017
   job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
+    detail: VP of Services & Experience
+  icon: fa-users
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Spry Digital
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Spry is a digital creative agency that works with enterprise, government, and non-profit sectors. I led the project managers
+            and was responsible for the day to day activities of the technical project teams. I was the project leader for applications
+            with 30k+ daily pageviews and millions of dollars in annual revenue.
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: 2016
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+    detail: Technical Project Manager
+  icon: fa-shopping-cart
+
+- name:
+    detail: Washington University in St. Louis
+  desc:
+    detail: I taught 5 semesters of a web development course at the WashU School of Engineering & Applied Science. I developed
+            a front-end, content-first curriculum​ for the course to augment computer science foundations in the program. The
+            course was popular with business, graphic design, and computer science majors.
+  date:
+    detail: 2012 – 2016
+  job:
+    detail: Adjunct Instructor
+  icon: fa-graduation-cap
+
+- name:
+    detail: Greater Goods
+  desc:
+    detail: Greater Goods sources and designs products for distribution on digital channels like Amazon. I created custom web
+            applications, project managed digital content creation for micro-brands and developed UX patterns for consumer products
+            with embedded systems (eg. blood pressure monitor). I led the team in adding 6 new product offerings, a website
+            relaunch, and a new supply-chain application and process.
+  date:
+    detail: 2015
+  job:
+    detail: Director of Creative Operations
+  icon: fa-shopping-cart
+
+- name:
+    detail: The Journey
+  desc:
+    detail: The Journey is a multi-site church with six locations. I served in CTO role and was accountable for custom web
+            application development, traditional IT functions, and live productions at 6 sites. I also created a content syndication web
+            app called PatchBay that allowed 25 stakeholders to manage digital content reaching 2,500+ print, 5,500+ web,
+            1,500+ mobile.
+  date:
+    detail: 2009 - 2015
+  job:
+    detail: Director of Integration & Technology
+  icon: fa-users
+
+- name:
+    detail: The Growth Partnership
+  desc:
+    detail: The Growth Partnership is a full-service marketing and business development agency for accounting firms. I create client
+            website and digital marketing content. Additionally, I moved clients from static sites to content management systems like
+            Drupal and WordPress.
+  date:
+    detail: 2008
+  job:
+    detail: Web Developer & Designer
+  icon: fa-at
+
+- name:
+    detail: Unanimous
+  desc:
+    detail: When I joined Unanimous, it had a long history of serving clients with traditional marketing. I grew website
+            and application revenue​ by implementing Drupal, an open source CMS, which increased margins and
+            allowed us to serve more clients.
+  date:
+    detail: 2007
+  job:
+    detail: Web Developer & Designer
+  icon: fa-at

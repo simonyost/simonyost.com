@@ -4,9 +4,9 @@
 title: Simon Yost
 description: Simon's site.
 keywords: Simon, Yost, siyo, Leader, Technology
-#baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-#url: https://simonyost.github.io/simonyost.com-jekyll  # url should be 'http://<github_username>.github.io/homepage' as before
-url: http://127.0.0.1:4000
+baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: http://simonyost.com  # url should be 'http://<github_username>.github.io/homepage' as before
+#url: http://127.0.0.1:4000
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-dashboard
     - name: fa-sitemap
-  desc: I am a Product Manager & Team Leader that create products and specialize in maximizing the potential of teams. My focus is leading teams to create sustainable and nimble digital applications so people can focus on other people.  # Describe yourself.
+  desc: I am a Product Manager & Team Leader that creates products and specializes in maximizing the potential of teams. My focus is leading teams to create sustainable and nimble digital applications so people can focus on other people.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.

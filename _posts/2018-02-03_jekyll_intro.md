@@ -1,14 +1,15 @@
 ---
+title: Second Saturday - Intro to Jekyll
+date: 2018-02-03 00:00:00 Z
 layout: post
-title:  "Second Saturday - Intro to Jekyll"
-date:   2018-02-03
-desc: "Join me in Omaha for Midland Code School's Second Saturday on Feb. 10, 2018."
-keywords: "Jekyll, Midland"
-categories: [Class]
-tags: [Jekyll]
+desc: Join me in Omaha for Midland Code School's Second Saturday on Feb. 10, 2018.
+keywords: Jekyll, Midland
+categories:
+- Class
+tags:
+- Jekyll
 icon: icon-html
 ---
-
 
 Join me in Omaha for Midland Code School's Second Saturday on Feb. 10, 2018.
 

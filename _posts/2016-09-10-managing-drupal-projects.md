@@ -1,14 +1,16 @@
 ---
+title: Managing Drupal Projects
+date: 2016-09-10 00:00:00 Z
+categories:
+- Class
+tags:
+- Drupal
+- Project Management
 layout: post
-title:  "Managing Drupal Projects"
-date:   2016-09-10
-desc: "Watch my session from Drupal Camp St. Louis on Building websites with Systems."
-keywords: "Drupal, Project Management, Systems"
-categories: [Class]
-tags: [Drupal,Project Management]
+desc: Watch my session from Drupal Camp St. Louis on Building websites with Systems.
+keywords: Drupal, Project Management, Systems
 icon: icon-html
 ---
-
 
 Watch my session from Drupal Camp St. Louis on Building websites with Systems.
 

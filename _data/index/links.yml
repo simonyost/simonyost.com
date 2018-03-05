@@ -1,12 +1,14 @@
-# links section data
+---
 - last_name: Memory Work
-  first_name:
-  desc: "Memory Work is local non-profit with a mission to reconcile historical events with corporate memory."
+  first_name: 123
+  desc: Memory Work is local non-profit with a mission to reconcile historical events
+    with corporate memory.
   website: http://memorywork.org/
   email: simon@memorywork.org
-  
 - last_name: Simply Done
-  first_name:
-  desc: "Simply Done is a modern home repair and management service provided to our members. Use Simply Done to fix your leaky pipe, organize your pantry, get the internet working, and much more all on your schedule."
+  first_name: 
+  desc: Simply Done is a modern home repair and management service provided to our
+    members. Use Simply Done to fix your leaky pipe, organize your pantry, get the
+    internet working, and much more all on your schedule.
   website: http://getsimplydone.com/
   email: simon@getsimplydone.com

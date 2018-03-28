@@ -1,6 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Slalom
+  desc:
+    detail: Slalom is a purpose-driven consulting firm that helps companies solve business problems and build for the future.
+            I serve in Slalom's Technology Enablement practice helping companies connect with their customers through technical solutions.
+  date:
+    detail: 2018
+  job:
+    detail: Consultant, Technology Enablement
+  icon: fa-users
+- name:
     detail: Bandura Systems
   desc:
     detail: Bandura creates a cybersecurity appliance that sits between in the internet and firewall to keep out the bad guys. My team

@@ -1,5 +1,6 @@
 ---
 title: Simon Yost
+tag: Leader, Learner, Digital Experiences, Web Services
 timezone: UTC
 collections:
   posts:
@@ -9,8 +10,9 @@ collections:
     title: Uploads
     output: true
 description: Simon's site.
-keywords: Simon, Yost, siyo, Leader, Technology
-baseurl: "/"
+keywords: Simon, Yost, siyo, leader, technology, consultant, ux, ui, engineer, engineering, teams, multidisciplinary
+baseurl: "/" #remote
+#baseurl: "" #local
 url: http://simonyost.com
 img_path: "/static/assets/img/blog"
 author:
@@ -30,9 +32,11 @@ author:
   skill_icon2:
   - name: fa-dashboard
   - name: fa-sitemap
-  desc: "<p><b>Simon Yost stands in the gap between design and engineering to help brands connect with people.</b> He specializes in maximizing the potential of multi-disciplinary teams through creating sustainable and nimble web applications.</p>
-  <p>Simon has spent 15 years building startup businesses and nonprofit organization in the Midwest region by spearheading digital strategy and content delivery. He has spent countless hours coaching professionals and students on building web applications, creating digital strategies, and installing systems in their businesses. Simon brought his knowledge to the classroom and taught web development at Washington University in St. Louis. He currently serves as a technology consultant at Slalom and as Founder of Simply Done, a modern home repair and management service.</p>
-  <p>Outside of work, Simon is a husband, father, amateur cyclist, and self-professed coffee aficionado. His passions include work as foster/adopt parent and Nebraska football.</p>"
+  desc: "<h3>I empower teams to close the gap between design and engineering so that digital experiences connect people.</h3>
+  <p>While specializing in maximizing the potential of multi-disciplinary teams, I create sustainable and nimble digital experiences and technical solutions.</p>
+  <p>I have spent 15 years building organizations (startups, nonprofits, and enterprise) in the Midwest region by spearheading digital strategy and content delivery. That includes countless hours coaching professionals and students on building applications, creating digital experiences, and installing systems in their businesses.
+  I currently serve as a technology consultant at Slalom St. Louis.</p>
+  <p>Outside of work, I am a husband, father, amateur cyclist, and self-professed coffee aficionado. My passions include foster/adopt parenting and Nebraska football.</p>"
 disqus: 
 ga:
   id: UA-113489820-1

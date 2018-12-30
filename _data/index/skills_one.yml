@@ -1,0 +1,7 @@
+# skills section data
+
+title: Design
+label: Competencies
+id : cs1
+aspects: User Experience, Information Architecture, Interaction Design, Visual Design, Content Workflows
+percentage: 85, 70, 90, 60, 90

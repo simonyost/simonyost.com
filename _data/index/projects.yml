@@ -6,6 +6,11 @@
 #    the PoliWall threat intelligence gateway in part with the U.S. Department of Defense.
 #    This site is built on Jekyll. <br><br><b>My Role:</b> UX Design // Copywriting
 #    // Front-end development // Project Management
+- name: Real-Time Repository, Claims
+#  url: https://banduracyber.com/product/
+  img: "/static/assets/img/landing/projects/centene.jpg"
+  desc: Partnered with Centene's IT department to migrate million's of Oracle rows into MongoDB using Kafak and GoLang.
+        <br><br><b>My Role:</b> GoLang Developer, Solution Architect, Cloud DevOps (Kubernetes & Docker)
 - name: Bandura TIG<sup>&trade;</sup>
   url: https://banduracyber.com/product/
   img: "/static/assets/img/landing/projects/bandura.png"

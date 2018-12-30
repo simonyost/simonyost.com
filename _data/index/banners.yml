@@ -2,8 +2,8 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/tn_landscape.jpg
-  title: Tennessee Landscape
-  
-- src: landing/co_landscape.jpg
-  title: Colorado Landscape
+- src: landing/mind_the_gap.jpg
+  title: Mind the Gap
+
+#- src: landing/co_landscape.jpg
+#  title: Colorado Landscape

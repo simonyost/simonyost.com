@@ -6,16 +6,16 @@
 #    the PoliWall threat intelligence gateway in part with the U.S. Department of Defense.
 #    This site is built on Jekyll. <br><br><b>My Role:</b> UX Design // Copywriting
 #    // Front-end development // Project Management
-- name: Ba TIG<sup>&trade;</sup>
-  url: https://bandurasystems.com/products/poliwall.html
+- name: Bandura TIG<sup>&trade;</sup>
+  url: https://banduracyber.com/product/
   img: "/static/assets/img/landing/projects/bandura.png"
   desc: The PoliWall is a security appliance that goes between in the internet and
     firewall to keep out the bad guys. <br><br><b>My Role:</b> UX Design // Front-end
     development // PHP development // Project Management
-- name: BanduraONE
-  url: https://bandurasystems.com/products/bandura-one.html
+- name: Bandura TIG<sup>&trade;</sup> Cloud Management Console
+  url: https://banduracyber.com/product/
   img: "/static/assets/img/landing/projects/bandura.png"
-  desc: BanduraONE is a cloud application allowing PoliWall users to control policy
+  desc: Bandura TIG<sup>&trade;</sup> Cloud Management Console is an application allowing PoliWall users to control policy
     from multiple appliances on a single interface. <br><br><b>My Role:</b> UX Design
     // Front-end development // Python development // Project Management
 - name: Optimum Buyflow
@@ -31,7 +31,7 @@
     service. <br><br><b>My Role:</b> UX Design // User stories // Front-end development
     // Project Management
 - name: USAID PC Dashbaord
-  url: https://usaidlearninglab.org/sub-group/pc-dashboard-working-group
+#  url: https://usaidlearninglab.org/sub-group/pc-dashboard-working-group
   img: "/static/assets/img/landing/projects/usaid.png"
   desc: The Program Cycle (PC) Dashboard was created for USAID contracts to track
     the world-wide professional activities of its teams and missions. <br><br><b>My

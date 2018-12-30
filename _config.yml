@@ -10,7 +10,7 @@ collections:
     output: true
 description: Simon's site.
 keywords: Simon, Yost, siyo, Leader, Technology
-baseurl: ""
+baseurl: "/"
 url: http://simonyost.com
 img_path: "/static/assets/img/blog"
 author:

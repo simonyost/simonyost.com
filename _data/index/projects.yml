@@ -1,13 +1,9 @@
 ---
-#- name: BanduraSystems.com
-#  url: https://bandurasystems.com
-#  img: "/static/assets/img/landing/projects/bandura.png"
-#  desc: The primary website property for Bandura System. Bandura Systems pioneered
-#    the PoliWall threat intelligence gateway in part with the U.S. Department of Defense.
-#    This site is built on Jekyll. <br><br><b>My Role:</b> UX Design // Copywriting
-#    // Front-end development // Project Management
+- name: Simply Foster
+  img: "/static/assets/img/landing/shattered.png"
+  desc: A platform to connect foster families with kids needing a home.
+        <br><br><b>My Role:</b> Board Member
 - name: Real-Time Repository, Claims
-#  url: https://banduracyber.com/product/
   img: "/static/assets/img/landing/projects/centene.jpg"
   desc: Partnered with Centene's IT department to migrate million's of Oracle rows into MongoDB using Kafak and GoLang.
         <br><br><b>My Role:</b> GoLang Developer, Solution Architect, Cloud DevOps (Kubernetes & Docker)
@@ -23,15 +19,9 @@
   desc: Bandura TIG<sup>&trade;</sup> Cloud Management Console is an application allowing PoliWall users to control policy
     from multiple appliances on a single interface. <br><br><b>My Role:</b> UX Design
     // Front-end development // Python development // Project Management
-- name: Optimum Buyflow
+- name: Optimum & Suddenlink Buyflows
   url: https://order.optimum.com/Buyflow/Storefront
   img: "/static/assets/img/landing/projects/optimum.jpg"
-  desc: A Node/Angular app that allows customers to buy cable TV, phone, and internet
-    service. <br><br><b>My Role:</b> UX Design // User stories // Front-end development
-    // Project Management
-- name: Suddenlink Buyflow
-  url: https://order.suddenlink.com/Buyflow/Storefront
-  img: "/static/assets/img/landing/projects/suddenlink.png"
   desc: A Node/Angular app that allows customers to buy cable TV, phone, and internet
     service. <br><br><b>My Role:</b> UX Design // User stories // Front-end development
     // Project Management

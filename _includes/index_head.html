@@ -22,4 +22,12 @@
   {% if site.data.index.language %}
   <script src="{{"/static/assets/i18-20180204.min.js"| prepend: site.baseurl }}"></script>
   {% endif %}
-</head>
+
+  <!-- Open Graph -->
+  <meta property="og:url"                content="http://simonyost.com" >
+  <meta property="og:type"               content="website" >
+  <meta property="og:title"              content="{{ site.title }}" >
+  <meta property="og:description"        content="{{ site.tag }}" >
+  <meta property="og:image"              content="http://simonyost.com/static/assets/img/landing/mind_the_gap.jpg" >
+
+  </head>

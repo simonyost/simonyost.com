@@ -1,7 +1,7 @@
 # skills section data
 
-title: Design
+title: Technical
 label: Competencies
 id : cs1
-aspects: User Experience, Information Architecture, Interaction Design, Visual Design, Content Workflows
-percentage: 85, 70, 90, 60, 90
+aspects: GoLang/ Node/ Python, Web Services, Integration/Testing, HTML/CSS/JS, Cloud DevOps, Containerization, Vue/ Angular/ React
+percentage: 90, 85, 80, 100, 80, 75, 95

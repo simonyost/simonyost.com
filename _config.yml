@@ -1,6 +1,6 @@
 ---
 title: Simon Yost
-tag: Speaker, Leader, Learner, Digital Experiences, Web Services
+tag: Leader, Learner, Speaker<br/>Cloud DevOps, Digital Products, Web Services
 timezone: UTC
 collections:
   posts:
@@ -25,17 +25,17 @@ author:
   instagram_id: simon.yost
   linkedin_id: simonyost
   email: simonyost@gmail.com
-  cv: "/static/assets/docs/SimonYost_Resume_2018.pdf"
+  # cv: "/static/assets/docs/SimonYost_Resume_2018.pdf"
   skill_icon1:
   - name: fa-heart
   - name: fa-cloud
   skill_icon2:
   - name: fa-dashboard
   - name: fa-sitemap
-  desc: "<h3>I empower teams to close the gap between design and engineering so that digital experiences connect people.</h3>
-  <p>While specializing in maximizing the potential of multi-disciplinary teams, I create sustainable and nimble digital experiences and technical solutions.</p>
-  <p>I have spent 15 years building organizations (startups, nonprofits, and enterprise) in the Midwest region by spearheading digital strategy and content delivery. That includes countless hours coaching professionals and students on building applications, creating digital experiences, and installing systems in their businesses.
-  I currently serve as a technology consultant at Slalom St. Louis.</p>
+  desc: "<h3>I help teams create digital products and experiences that connect people.</h3>
+  <p>While specializing in maximizing the potential of multi-disciplinary teams, I create sustainable and digital products on cloud infrastructure.</p>
+  <p>I have spent 15 years building organizations (startups, nonprofits, and enterprise) in the Midwest region by spearheading technology strategy and software products. That includes countless hours coaching professionals and students on building applications, creating digital products, and installing systems in businesses.
+  I currently serve as a technology enablement consultant at Slalom St. Louis.</p>
   <p>Outside of work, I am a husband, father, amateur cyclist, and self-professed coffee aficionado. My passions include foster/adopt parenting and Nebraska football.</p>"
 disqus: 
 ga:

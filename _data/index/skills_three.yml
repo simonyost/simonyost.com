@@ -1,7 +1,7 @@
 # skills section data
 
-title: People
+title: Design
 label: Competencies
-id : cs3
-aspects: Creating Culture, Empowering Diversity, Developing Others, Vision & Strategy, Always Learning
-percentage: 90, 80, 80, 60, 95
+id : cs1
+aspects: User Experience, Information Architecture, Interaction Design, Visual Design, Content Workflows
+percentage: 85, 70, 90, 60, 90

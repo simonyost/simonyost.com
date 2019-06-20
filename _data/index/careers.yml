@@ -4,7 +4,8 @@
     detail: Slalom
   desc:
     detail: Slalom is a modern consulting firm focused on strategy, technology, and business transformation. 
-            I lead our User Interface Design practice in the St. Louis market. It is a privilege to spend my days helping our Experience Designers and Developers create interfaces that delight users.
+            My technology enablement practice ranges from Cloud DevOps to Front-end Development.
+            I lead our User Interface Design practice in the St. Louis market. It is a privilege to spend my days helping our Experience Designers and Developers create products that delight users.
   date:
     detail: 2018
   job:
@@ -15,7 +16,8 @@
   desc:
     detail: Bandura creates a cybersecurity appliance that sits between in the internet and firewall to keep out the bad guys. My team
             and I delight and surprise our customers with intuitive user interfaces as well as engaged and contextual support
-            interactions. I led the migration of the flagship appliance from PHP/jQuery to Python + GoLang/ Vue.JS.
+            interactions. I led the migration of the flagship appliance from PHP/jQuery to Python + GoLang/ Vue.JS. The team also
+            was a frontrunner in deploying on the Google Cloud marketplace in the Google Partner Program.
   date:
     detail: 2017
   job:
@@ -26,8 +28,8 @@
     detail: Spry Digital
   desc:
     detail: Spry is a digital creative agency that works with enterprise, government, and non-profit sectors. I led the project managers
-            and was responsible for the day to day activities of the technical project teams. I was the project leader for applications
-            with 30k+ daily pageviews and millions of dollars in annual revenue.
+            and was responsible for the day to day activities of the technical project teams. I was the project leader for telecom buyflow
+            applications hosted on AWS with 30k+ daily pageviews and millions of dollars in annual revenue.
   date:
     detail: 2016
   job:
@@ -52,7 +54,7 @@
     detail: Greater Goods sources and designs products for distribution on digital channels like Amazon. I created custom web
             applications, project managed digital content creation for micro-brands and developed UX patterns for consumer products
             with embedded systems (eg. blood pressure monitor). I led the team in adding 6 new product offerings, a website
-            relaunch, and a new supply-chain application and process.
+            relaunch, and a new supply-chain process.
   date:
     detail: 2015
   job:

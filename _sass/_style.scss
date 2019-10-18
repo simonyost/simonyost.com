@@ -2628,8 +2628,16 @@ body {
     padding-top: 80px;
     padding-bottom: 90px;
     background-color: #3385FF;
-    background-image: url(../assets/img/landing/avatar_all.png);
+    background-image: url(../assets/img/landing/simon_says.jpg);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
   }
+
+  .testimonials .btn {
+    margin-top: 5em;
+  }
+
   .contact {
     background-image: url(../assets/img/landing/word_map.png);
     background-position: 50% 50%;

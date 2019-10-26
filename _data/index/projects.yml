@@ -1,5 +1,6 @@
 ---
 - name: UIE.dev
+  url: https://uie.dev
   img: "/static/assets/img/landing/uie_dev.png"
   desc: Connection point for User Interface Engineers closing the gap between design and engineering.
         <br><br><b>My Role:</b> Founder

@@ -1,9 +1,4 @@
 ---
-- name: UIE.dev
-  url: https://uie.dev
-  img: "/static/assets/img/landing/uie_dev.png"
-  desc: Connection point for User Interface Engineers closing the gap between design and engineering.
-        <br><br><b>My Role:</b> Founder
 - name: Simply Foster
   img: "/static/assets/img/landing/shattered.png"
   desc: A platform to connect foster families with kids needing a home.

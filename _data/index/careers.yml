@@ -1,16 +1,27 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: 1904labs
+  desc:
+    detail: Responsible for maintaining the client relationship as well as providing technical support, agile guidance, and servant leadership to the software development team. 
+            The Agile Engineering Lead is responsible for facilitating interactions between the team and the client, both running down roadblocks as well as guiding day to day 
+            engineering activities.
+  date:
+    detail: 2020
+  job:
+    detail: Agile Engineering Lead
+  icon: fa-at
+- name:
     detail: Slalom
   desc:
     detail: Slalom is a modern consulting firm focused on strategy, technology, and business transformation. 
             My technology enablement practice ranges from Cloud DevOps to Front-end Development.
             I lead our User Interface Design practice in the St. Louis market. It is a privilege to spend my days helping our Experience Designers and Developers create products that delight users.
   date:
-    detail: 2018
+    detail: 2018-19
   job:
     detail: Consultant, Technology Enablement
-  icon: fa-cubes
+  icon: fa-at
 - name:
     detail: Bandura Systems
   desc:
@@ -22,7 +33,7 @@
     detail: 2017
   job:
     detail: VP of Services & Experience
-  icon: fa-users
+  icon: fa-at
 
 - name:
     detail: Spry Digital
@@ -34,7 +45,7 @@
     detail: 2016
   job:
     detail: Technical Project Manager
-  icon: fa-shopping-cart
+  icon: fa-at
 
 - name:
     detail: Washington University in St. Louis
@@ -46,7 +57,7 @@
     detail: 2012 – 2016
   job:
     detail: Adjunct Instructor
-  icon: fa-graduation-cap
+  icon: fa-at
 
 - name:
     detail: Greater Goods
@@ -59,7 +70,7 @@
     detail: 2015
   job:
     detail: Director of Creative Operations
-  icon: fa-shopping-cart
+  icon: fa-at
 
 - name:
     detail: The Journey
@@ -72,7 +83,7 @@
     detail: 2009 - 2015
   job:
     detail: Director of Integration & Technology
-  icon: fa-users
+  icon: fa-at
 
 - name:
     detail: The Growth Partnership

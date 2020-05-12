@@ -2,8 +2,8 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/speaking_01.jpg
-  title: speaking at DevOps Days KC
+- src: landing/group.jpg
+  title: close the gap
 
 #- src: landing/co_landscape.jpg
 #  title: Colorado Landscape

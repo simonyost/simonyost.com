@@ -1,6 +1,7 @@
 ---
 - name: Simply Foster
-  img: "/static/assets/img/landing/shattered.png"
+  url: https://www.simplyfoster.com/
+  img: "/static/assets/img/landing/projects/simply_foster.png"
   desc: A platform to connect foster families with kids needing a home.
         <br><br><b>My Role:</b> Board Member
 - name: Real-Time Repository, Claims

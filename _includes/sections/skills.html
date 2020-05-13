@@ -2,27 +2,32 @@
     <div class="row">
         <div class="col-lg-12 text-center" id="i18_skills">
             <div class="navy-line"></div>
-            <h1><span data-i18n="skills.my_skills">My Skills</span></h1>
+            <h1><span>{{ site.data.index.skills_one.label }}</span></h1>
         </div>
     </div>
     <div class="row features-block">
-        <div class="wow zoomIn col-lg-6 col-lg-offset-3">
-            <canvas id="{{ site.data.index.skills.id }}" height="500" width="500"></canvas>
+
+        <!--SKILLS ONE-->
+        <div class="wow zoomIn col-lg-6 col-lg-offset-0 col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
+            <h2 class="text-center">
+                <span class="navy">{{ site.data.index.skills_one.title }}</span>
+            </h2>
+            <hr>
+            <canvas id="{{ site.data.index.skills_one.id }}" height="500" width="500"></canvas>
         </div>
-        <div class="col-lg-1"></div>
         <script>
-        var ctx = document.getElementById("{{ site.data.index.skills.id }}");
+        var ctx = document.getElementById("{{ site.data.index.skills_one.id }}");
         var data = {
-            labels: "{{ site.data.index.skills.aspects }}".split(","),
+            labels: "{{ site.data.index.skills_one.aspects }}".split(","),
             datasets: [{
-                label: "{{ site.data.index.skills.label }}",
+                label: "{{ site.data.index.skills_one.label }}",
                 backgroundColor: "rgba(179,181,198,0.2)",
                 borderColor: "#3385FF",
                 pointBackgroundColor: "#3385FF",
                 pointBorderColor: "#fff",
                 pointHoverBackgroundColor: "#3385FF",
                 pointHoverBorderColor: "#3385FF",
-                data: [{{ site.data.index.skills.percentage }}]
+                data: [{{ site.data.index.skills_one.percentage }}]
                 }]
         };
         var myRadarChart = new Chart(ctx, {
@@ -39,5 +44,45 @@
             }
         });
         </script>
+
+        <!--SKILLS TWO-->
+        <div class="wow zoomIn col-lg-6 col-lg-offset-0 col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
+            <h2 class="text-center">
+                <span class="navy">{{ site.data.index.skills_two.title }}</span>
+            </h2>
+            <hr>
+            <canvas id="{{ site.data.index.skills_two.id }}" height="500" width="500"></canvas>
+        </div>
+        <script>
+            var ctx = document.getElementById("{{ site.data.index.skills_two.id }}");
+            var data = {
+                labels: "{{ site.data.index.skills_two.aspects }}".split(","),
+                datasets: [{
+                    label: "{{ site.data.index.skills_two.label }}",
+                    backgroundColor: "rgba(179,181,198,0.2)",
+                    borderColor: "#a00000",
+                    pointBackgroundColor: "#c60000",
+                    pointBorderColor: "#fff",
+                    pointHoverBackgroundColor: "#9d0000",
+                    pointHoverBorderColor: "#9d0000",
+                    data: [{{ site.data.index.skills_two.percentage }}]
+            }]
+            };
+            var myRadarChart = new Chart(ctx, {
+                type: 'radar',
+                data: data,
+                options: {
+                    scale: {
+                        responsive: true,
+                        ticks: {min: 0, max: 100},
+                        lineArc: false,
+                        pointLabels: {fontSize: 14},
+                    },
+                    legend: {display: false},
+                }
+            });
+        </script>
+
+
     </div>
 </div>

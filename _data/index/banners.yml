@@ -2,7 +2,7 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/group.jpg
+- src: landing/speaking_03.jpg
   title: close the gap
 
 #- src: landing/co_landscape.jpg

@@ -9,7 +9,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: Simon's site.
+description: Simon Yost
 keywords: Simon, Yost, siyo, leader, technology, consultant, ux, ui, engineer, engineering, teams, multidisciplinary
 #baseurl: "/" #remote
 baseurl: "" #local
@@ -32,11 +32,9 @@ author:
   skill_icon2:
   - name: fa-dashboard
   - name: fa-sitemap
-  desc: "<h3>Unifying & aligning teams around the power of technology so that tribes can thrive.</h3>
-  <p>While specializing in maximizing the potential of multi-disciplinary teams, I create sustainable and digital products on cloud infrastructure.</p>
-  <p>I have spent 15 years building organizations (startups, nonprofits, and enterprise) in the Midwest region by spearheading technology strategy and software products. That includes countless hours coaching professionals and students on building applications, creating digital products, and installing systems in businesses.
-  I currently serve as a technology enablement consultant at Slalom St. Louis.</p>
-  <p>Outside of work, I am a husband, father, amateur cyclist, and self-professed coffee aficionado. My passions include foster/adopt parenting and Nebraska football.</p>"
+  desc: "<h3>I am all about tribes thriving.</h3>
+  <p>I am a husband, father, technology leader, podcast host, amateur cyclist, and <br>self-professed coffee aficionado.
+  <br>My passions include foster/adopt parenting and Nebraska football.</p>"
 disqus: 
 ga:
   id: UA-113489820-1

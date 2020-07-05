@@ -2,7 +2,7 @@
     <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
             <div class="navy-line"></div>
-            <h1><span data-i18n="projects.my_projects">My Projects</span></h1>
+            <h1><span data-i18n="projects.my_projects">Projects</span></h1>
         </div>
     </div>
     <div class="row">
@@ -18,7 +18,15 @@
             <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
             {% endif %}
               <div class="team-member">
-                  <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
+                {% if project.url %}
+                <a href="{{ project.url }}" target="_blank"><span class="navy">
+                    <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
+                </a>
+                {% else %}
+                <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
+                {% endif %}
+                
+                  
                   <h4>
                   {% if project.url %}
                   <a href="{{ project.url }}" target="_blank"><span class="navy">{{ project.name }}</span></a>

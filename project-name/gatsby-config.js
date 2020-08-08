@@ -10,7 +10,9 @@ module.exports = {
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `Simon Yost`,
-    siteTitleAlt: `Simon Yost - Technology Leader`,
+    siteTitleAlt: `Simon Yost`,
+    siteHeadline: `Technology leader and podcast host`,
+    siteDescription: `Finding clarity in the mess so that tribes can thrive.`,
     siteUrl: `https://simonyost.com`,
     siteLanguage: `en`,
   },
